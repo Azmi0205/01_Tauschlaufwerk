@@ -1,0 +1,40 @@
+{
+    "id": "component-072-environmental_control",
+    "values": [
+        // Aspect: Economy
+        [
+            0.9196, // [0] Unit Production Cost
+            0.5815, // [1] Maintenance Cost Efficiency
+            0.1769, // [2] Fuel Consumption Impact
+            0.232, // [3] Warranty Claim Rate
+            0.8163, // [4] Supply Chain Lead Time
+            0.1918, // [5] Market Price Competitiveness
+            0.1856, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.0222, // [0] Material Recyclability
+            0.6197, // [1] Manufacturing Emissions Index
+            0.4969, // [2] Operational Noise Footprint
+            0.5351, // [3] Weight-to-Strength Efficiency
+            0.5032, // [4] Corrosion Resistance Rating
+            0.8994, // [5] Use of Sustainable Materials
+            0.9644, // [6] End-of-Life Disassembly Ease
+            0.2443, // [7] Energy Consumption in Production
+            0.8318, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.1559, // [0] Safety Incident Reduction
+            0.0775, // [1] Ergonomic Maintenance Access
+            0.5722, // [2] Noise Exposure Reduction
+            0.9864, // [3] Training Time Requirement
+            0.6632, // [4] Operator Satisfaction Score
+            0.6519, // [5] Community Noise Impact
+            0.8576, // [6] Regulatory Compliance Rate
+            0.6894, // [7] Local Workforce Engagement
+            0.9153, // [8] Human Factors Error Rate
+            0.4593, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

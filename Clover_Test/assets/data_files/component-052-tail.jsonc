@@ -1,0 +1,40 @@
+{
+    "id": "component-052-tail",
+    "values": [
+        // Aspect: Economy
+        [
+            0.6792, // [0] Unit Production Cost
+            0.6019, // [1] Maintenance Cost Efficiency
+            0.5444, // [2] Fuel Consumption Impact
+            0.1697, // [3] Warranty Claim Rate
+            0.7056, // [4] Supply Chain Lead Time
+            0.2347, // [5] Market Price Competitiveness
+            0.8042, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.9391, // [0] Material Recyclability
+            0.83, // [1] Manufacturing Emissions Index
+            0.0358, // [2] Operational Noise Footprint
+            0.7888, // [3] Weight-to-Strength Efficiency
+            0.2151, // [4] Corrosion Resistance Rating
+            0.4036, // [5] Use of Sustainable Materials
+            0.6953, // [6] End-of-Life Disassembly Ease
+            0.3508, // [7] Energy Consumption in Production
+            0.4648, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.3024, // [0] Safety Incident Reduction
+            0.5278, // [1] Ergonomic Maintenance Access
+            0.7748, // [2] Noise Exposure Reduction
+            0.5666, // [3] Training Time Requirement
+            0.588, // [4] Operator Satisfaction Score
+            0.2436, // [5] Community Noise Impact
+            0.9422, // [6] Regulatory Compliance Rate
+            0.4358, // [7] Local Workforce Engagement
+            0.9343, // [8] Human Factors Error Rate
+            0.0298, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

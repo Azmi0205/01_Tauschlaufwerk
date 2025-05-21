@@ -1,0 +1,40 @@
+{
+    "id": "component-066-cabin",
+    "values": [
+        // Aspect: Economy
+        [
+            0.3898, // [0] Unit Production Cost
+            0.6868, // [1] Maintenance Cost Efficiency
+            0.3011, // [2] Fuel Consumption Impact
+            0.1751, // [3] Warranty Claim Rate
+            0.7075, // [4] Supply Chain Lead Time
+            0.8049, // [5] Market Price Competitiveness
+            0.3151, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.8398, // [0] Material Recyclability
+            0.3388, // [1] Manufacturing Emissions Index
+            0.1366, // [2] Operational Noise Footprint
+            0.9896, // [3] Weight-to-Strength Efficiency
+            0.5118, // [4] Corrosion Resistance Rating
+            0.9564, // [5] Use of Sustainable Materials
+            0.0232, // [6] End-of-Life Disassembly Ease
+            0.1477, // [7] Energy Consumption in Production
+            0.2149, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.268, // [0] Safety Incident Reduction
+            0.8652, // [1] Ergonomic Maintenance Access
+            0.539, // [2] Noise Exposure Reduction
+            0.1499, // [3] Training Time Requirement
+            0.3701, // [4] Operator Satisfaction Score
+            0.0705, // [5] Community Noise Impact
+            0.0246, // [6] Regulatory Compliance Rate
+            0.3511, // [7] Local Workforce Engagement
+            0.6957, // [8] Human Factors Error Rate
+            0.9294, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

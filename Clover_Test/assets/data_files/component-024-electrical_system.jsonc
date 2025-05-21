@@ -1,0 +1,40 @@
+{
+    "id": "component-024-electrical_system",
+    "values": [
+        // Aspect: Economy
+        [
+            0.0425, // [0] Unit Production Cost
+            0.8211, // [1] Maintenance Cost Efficiency
+            0.2405, // [2] Fuel Consumption Impact
+            0.6324, // [3] Warranty Claim Rate
+            0.6459, // [4] Supply Chain Lead Time
+            0.1711, // [5] Market Price Competitiveness
+            0.5014, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.1418, // [0] Material Recyclability
+            0.6763, // [1] Manufacturing Emissions Index
+            0.3133, // [2] Operational Noise Footprint
+            0.6728, // [3] Weight-to-Strength Efficiency
+            0.1713, // [4] Corrosion Resistance Rating
+            0.5747, // [5] Use of Sustainable Materials
+            0.1468, // [6] End-of-Life Disassembly Ease
+            0.0456, // [7] Energy Consumption in Production
+            0.9424, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.6005, // [0] Safety Incident Reduction
+            0.5138, // [1] Ergonomic Maintenance Access
+            0.0624, // [2] Noise Exposure Reduction
+            0.2079, // [3] Training Time Requirement
+            0.8702, // [4] Operator Satisfaction Score
+            0.3004, // [5] Community Noise Impact
+            0.4063, // [6] Regulatory Compliance Rate
+            0.3422, // [7] Local Workforce Engagement
+            0.049, // [8] Human Factors Error Rate
+            0.6332, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

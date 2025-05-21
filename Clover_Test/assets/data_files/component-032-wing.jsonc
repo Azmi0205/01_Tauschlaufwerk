@@ -1,0 +1,40 @@
+{
+    "id": "component-032-wing",
+    "values": [
+        // Aspect: Economy
+        [
+            0.8448, // [0] Unit Production Cost
+            0.2524, // [1] Maintenance Cost Efficiency
+            0.7179, // [2] Fuel Consumption Impact
+            0.0795, // [3] Warranty Claim Rate
+            0.6917, // [4] Supply Chain Lead Time
+            0.4533, // [5] Market Price Competitiveness
+            0.4335, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.0897, // [0] Material Recyclability
+            0.2586, // [1] Manufacturing Emissions Index
+            0.0126, // [2] Operational Noise Footprint
+            0.2544, // [3] Weight-to-Strength Efficiency
+            0.8729, // [4] Corrosion Resistance Rating
+            0.9227, // [5] Use of Sustainable Materials
+            0.1891, // [6] End-of-Life Disassembly Ease
+            0.8988, // [7] Energy Consumption in Production
+            0.6526, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.8553, // [0] Safety Incident Reduction
+            0.7888, // [1] Ergonomic Maintenance Access
+            0.7336, // [2] Noise Exposure Reduction
+            0.879, // [3] Training Time Requirement
+            0.2928, // [4] Operator Satisfaction Score
+            0.4634, // [5] Community Noise Impact
+            0.6828, // [6] Regulatory Compliance Rate
+            0.2688, // [7] Local Workforce Engagement
+            0.1935, // [8] Human Factors Error Rate
+            0.6312, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

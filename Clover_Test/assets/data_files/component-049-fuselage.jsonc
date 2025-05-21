@@ -1,0 +1,40 @@
+{
+    "id": "component-049-fuselage",
+    "values": [
+        // Aspect: Economy
+        [
+            0.8625, // [0] Unit Production Cost
+            0.2367, // [1] Maintenance Cost Efficiency
+            0.942, // [2] Fuel Consumption Impact
+            0.8215, // [3] Warranty Claim Rate
+            0.2123, // [4] Supply Chain Lead Time
+            0.9681, // [5] Market Price Competitiveness
+            0.2894, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.1961, // [0] Material Recyclability
+            0.7962, // [1] Manufacturing Emissions Index
+            0.9104, // [2] Operational Noise Footprint
+            0.1086, // [3] Weight-to-Strength Efficiency
+            0.2041, // [4] Corrosion Resistance Rating
+            0.9352, // [5] Use of Sustainable Materials
+            0.1817, // [6] End-of-Life Disassembly Ease
+            0.5356, // [7] Energy Consumption in Production
+            0.9881, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.1688, // [0] Safety Incident Reduction
+            0.0213, // [1] Ergonomic Maintenance Access
+            0.611, // [2] Noise Exposure Reduction
+            0.5357, // [3] Training Time Requirement
+            0.2149, // [4] Operator Satisfaction Score
+            0.72, // [5] Community Noise Impact
+            0.2547, // [6] Regulatory Compliance Rate
+            0.3837, // [7] Local Workforce Engagement
+            0.4477, // [8] Human Factors Error Rate
+            0.1998, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

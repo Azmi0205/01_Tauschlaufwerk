@@ -1,0 +1,40 @@
+{
+    "id": "component-018-landing_gear",
+    "values": [
+        // Aspect: Economy
+        [
+            0.7924, // [0] Unit Production Cost
+            0.4096, // [1] Maintenance Cost Efficiency
+            0.1702, // [2] Fuel Consumption Impact
+            0.4194, // [3] Warranty Claim Rate
+            0.8187, // [4] Supply Chain Lead Time
+            0.6079, // [5] Market Price Competitiveness
+            0.2349, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.2995, // [0] Material Recyclability
+            0.2447, // [1] Manufacturing Emissions Index
+            0.242, // [2] Operational Noise Footprint
+            0.2439, // [3] Weight-to-Strength Efficiency
+            0.0287, // [4] Corrosion Resistance Rating
+            0.9496, // [5] Use of Sustainable Materials
+            0.8615, // [6] End-of-Life Disassembly Ease
+            0.4334, // [7] Energy Consumption in Production
+            0.7214, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.3657, // [0] Safety Incident Reduction
+            0.3781, // [1] Ergonomic Maintenance Access
+            0.3899, // [2] Noise Exposure Reduction
+            0.1045, // [3] Training Time Requirement
+            0.6368, // [4] Operator Satisfaction Score
+            0.9719, // [5] Community Noise Impact
+            0.4274, // [6] Regulatory Compliance Rate
+            0.7948, // [7] Local Workforce Engagement
+            0.0011, // [8] Human Factors Error Rate
+            0.5974, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

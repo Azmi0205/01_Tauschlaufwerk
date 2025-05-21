@@ -1,0 +1,40 @@
+{
+    "id": "component-001-engine",
+    "values": [
+        // Aspect: Economy
+        [
+            0.9169, // [0] Unit Production Cost
+            0.0469, // [1] Maintenance Cost Efficiency
+            0.6963, // [2] Fuel Consumption Impact
+            0.505, // [3] Warranty Claim Rate
+            0.8845, // [4] Supply Chain Lead Time
+            0.211, // [5] Market Price Competitiveness
+            0.4011 // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.1055, // [0] Material Recyclability
+            0.0982, // [1] Manufacturing Emissions Index
+            0.913, // [2] Operational Noise Footprint
+            0.3612, // [3] Weight-to-Strength Efficiency
+            0.4538, // [4] Corrosion Resistance Rating
+            0.3608, // [5] Use of Sustainable Materials
+            0.209, // [6] End-of-Life Disassembly Ease
+            0.2104, // [7] Energy Consumption in Production
+            0.8949 // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.2093, // [0] Safety Incident Reduction
+            0.2845, // [1] Ergonomic Maintenance Access
+            0.5374, // [2] Noise Exposure Reduction
+            0.7514, // [3] Training Time Requirement
+            0.8031, // [4] Operator Satisfaction Score
+            0.5444, // [5] Community Noise Impact
+            0.316, // [6] Regulatory Compliance Rate
+            0.2572, // [7] Local Workforce Engagement
+            0.0235, // [8] Human Factors Error Rate
+            0.2518 // [9] Stakeholder Transparency Index
+        ]
+    ]
+}

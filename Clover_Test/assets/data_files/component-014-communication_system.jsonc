@@ -1,0 +1,40 @@
+{
+    "id": "component-014-communication_system",
+    "values": [
+        // Aspect: Economy
+        [
+            0.5867, // [0] Unit Production Cost
+            0.8888, // [1] Maintenance Cost Efficiency
+            0.4107, // [2] Fuel Consumption Impact
+            0.6627, // [3] Warranty Claim Rate
+            0.444, // [4] Supply Chain Lead Time
+            0.4927, // [5] Market Price Competitiveness
+            0.3876, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.0456, // [0] Material Recyclability
+            0.6369, // [1] Manufacturing Emissions Index
+            0.4959, // [2] Operational Noise Footprint
+            0.4635, // [3] Weight-to-Strength Efficiency
+            0.0458, // [4] Corrosion Resistance Rating
+            0.7319, // [5] Use of Sustainable Materials
+            0.5965, // [6] End-of-Life Disassembly Ease
+            0.5007, // [7] Energy Consumption in Production
+            0.6229, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.5008, // [0] Safety Incident Reduction
+            0.3612, // [1] Ergonomic Maintenance Access
+            0.2454, // [2] Noise Exposure Reduction
+            0.7956, // [3] Training Time Requirement
+            0.909, // [4] Operator Satisfaction Score
+            0.6717, // [5] Community Noise Impact
+            0.4281, // [6] Regulatory Compliance Rate
+            0.1832, // [7] Local Workforce Engagement
+            0.5981, // [8] Human Factors Error Rate
+            0.7052, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

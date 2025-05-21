@@ -1,0 +1,40 @@
+{
+    "id": "component-011-fuel_system",
+    "values": [
+        // Aspect: Economy
+        [
+            0.9228, // [0] Unit Production Cost
+            0.1039, // [1] Maintenance Cost Efficiency
+            0.4174, // [2] Fuel Consumption Impact
+            0.0487, // [3] Warranty Claim Rate
+            0.8664, // [4] Supply Chain Lead Time
+            0.4632, // [5] Market Price Competitiveness
+            0.466, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.5588, // [0] Material Recyclability
+            0.6783, // [1] Manufacturing Emissions Index
+            0.0961, // [2] Operational Noise Footprint
+            0.8554, // [3] Weight-to-Strength Efficiency
+            0.2936, // [4] Corrosion Resistance Rating
+            0.96, // [5] Use of Sustainable Materials
+            0.723, // [6] End-of-Life Disassembly Ease
+            0.6177, // [7] Energy Consumption in Production
+            0.7965, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.9533, // [0] Safety Incident Reduction
+            0.2999, // [1] Ergonomic Maintenance Access
+            0.873, // [2] Noise Exposure Reduction
+            0.4155, // [3] Training Time Requirement
+            0.3776, // [4] Operator Satisfaction Score
+            0.9275, // [5] Community Noise Impact
+            0.9498, // [6] Regulatory Compliance Rate
+            0.3403, // [7] Local Workforce Engagement
+            0.6972, // [8] Human Factors Error Rate
+            0.0162, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

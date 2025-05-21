@@ -1,0 +1,41 @@
+{
+    "aspects": [
+        "Economy",
+        "Ecology",
+        "Social"
+    ],
+    "metrics": [
+        [
+            "Unit Production Cost",
+            "Maintenance Cost Efficiency",
+            "Fuel Consumption Impact",
+            "Warranty Claim Rate",
+            "Supply Chain Lead Time",
+            "Market Price Competitiveness",
+            "Residual Value Ratio"
+        ],
+        [
+            "Material Recyclability",
+            "Manufacturing Emissions Index",
+            "Operational Noise Footprint",
+            "Weight-to-Strength Efficiency",
+            "Corrosion Resistance Rating",
+            "Use of Sustainable Materials",
+            "End-of-Life Disassembly Ease",
+            "Energy Consumption in Production",
+            "Green Certification Score"
+        ],
+        [
+            "Safety Incident Reduction",
+            "Ergonomic Maintenance Access",
+            "Noise Exposure Reduction",
+            "Training Time Requirement",
+            "Operator Satisfaction Score",
+            "Community Noise Impact",
+            "Regulatory Compliance Rate",
+            "Local Workforce Engagement",
+            "Human Factors Error Rate",
+            "Stakeholder Transparency Index"
+        ]
+    ]
+}

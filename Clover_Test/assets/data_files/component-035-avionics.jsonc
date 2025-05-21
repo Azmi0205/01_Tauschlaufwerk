@@ -1,0 +1,40 @@
+{
+    "id": "component-035-avionics",
+    "values": [
+        // Aspect: Economy
+        [
+            0.9966, // [0] Unit Production Cost
+            0.0794, // [1] Maintenance Cost Efficiency
+            0.3766, // [2] Fuel Consumption Impact
+            0.0848, // [3] Warranty Claim Rate
+            0.9133, // [4] Supply Chain Lead Time
+            0.3543, // [5] Market Price Competitiveness
+            0.0739, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.0814, // [0] Material Recyclability
+            0.9042, // [1] Manufacturing Emissions Index
+            0.8195, // [2] Operational Noise Footprint
+            0.3369, // [3] Weight-to-Strength Efficiency
+            0.5835, // [4] Corrosion Resistance Rating
+            0.4245, // [5] Use of Sustainable Materials
+            0.672, // [6] End-of-Life Disassembly Ease
+            0.7859, // [7] Energy Consumption in Production
+            0.1005, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.2128, // [0] Safety Incident Reduction
+            0.4786, // [1] Ergonomic Maintenance Access
+            0.721, // [2] Noise Exposure Reduction
+            0.0292, // [3] Training Time Requirement
+            0.6838, // [4] Operator Satisfaction Score
+            0.6608, // [5] Community Noise Impact
+            0.9135, // [6] Regulatory Compliance Rate
+            0.5186, // [7] Local Workforce Engagement
+            0.0926, // [8] Human Factors Error Rate
+            0.861, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

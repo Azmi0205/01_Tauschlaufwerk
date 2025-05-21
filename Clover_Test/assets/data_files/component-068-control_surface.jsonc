@@ -1,0 +1,40 @@
+{
+    "id": "component-068-control_surface",
+    "values": [
+        // Aspect: Economy
+        [
+            0.069, // [0] Unit Production Cost
+            0.4895, // [1] Maintenance Cost Efficiency
+            0.1766, // [2] Fuel Consumption Impact
+            0.2163, // [3] Warranty Claim Rate
+            0.7961, // [4] Supply Chain Lead Time
+            0.4524, // [5] Market Price Competitiveness
+            0.885, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.0164, // [0] Material Recyclability
+            0.3001, // [1] Manufacturing Emissions Index
+            0.3142, // [2] Operational Noise Footprint
+            0.4945, // [3] Weight-to-Strength Efficiency
+            0.3635, // [4] Corrosion Resistance Rating
+            0.0975, // [5] Use of Sustainable Materials
+            0.6572, // [6] End-of-Life Disassembly Ease
+            0.6727, // [7] Energy Consumption in Production
+            0.8699, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.9305, // [0] Safety Incident Reduction
+            0.4233, // [1] Ergonomic Maintenance Access
+            0.8216, // [2] Noise Exposure Reduction
+            0.5424, // [3] Training Time Requirement
+            0.8462, // [4] Operator Satisfaction Score
+            0.5257, // [5] Community Noise Impact
+            0.1702, // [6] Regulatory Compliance Rate
+            0.0593, // [7] Local Workforce Engagement
+            0.1966, // [8] Human Factors Error Rate
+            0.055, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

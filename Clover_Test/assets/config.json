@@ -1,0 +1,74 @@
+{
+  "circle_stroke": 3.0,
+  "graph_stroke": 2.0,
+  "stem_shrink": 0.7,
+  "polygon_opacity": 125,
+  "superimpose_opacity": 75,
+  "circle_n_points": 100,
+  "colors": [
+    [
+      30,
+      99,
+      160,
+      255
+    ],
+    [
+      230,
+      99,
+      50,
+      255
+    ],
+    [
+      40,
+      130,
+      60,
+      255
+    ],
+    [
+      180,
+      30,
+      30,
+      255
+    ],
+    [
+      90,
+      30,
+      120,
+      255
+    ],
+    [
+      110,
+      70,
+      20,
+      255
+    ],
+    [
+      210,
+      70,
+      100,
+      255
+    ],
+    [
+      80,
+      80,
+      80,
+      255
+    ],
+    [
+      140,
+      140,
+      30,
+      255
+    ],
+    [
+      30,
+      120,
+      130,
+      255
+    ]
+  ],
+  "show_per": false,
+  "same_color_second": true,
+  "same_color_superimpose": true,
+  "feathering_en": true
+}

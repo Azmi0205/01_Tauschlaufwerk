@@ -1,0 +1,40 @@
+{
+    "id": "component-055-hydraulic_system",
+    "values": [
+        // Aspect: Economy
+        [
+            0.2055, // [0] Unit Production Cost
+            0.5607, // [1] Maintenance Cost Efficiency
+            0.0209, // [2] Fuel Consumption Impact
+            0.3845, // [3] Warranty Claim Rate
+            0.9568, // [4] Supply Chain Lead Time
+            0.7511, // [5] Market Price Competitiveness
+            0.3733, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.8228, // [0] Material Recyclability
+            0.6939, // [1] Manufacturing Emissions Index
+            0.3211, // [2] Operational Noise Footprint
+            0.2955, // [3] Weight-to-Strength Efficiency
+            0.5316, // [4] Corrosion Resistance Rating
+            0.5458, // [5] Use of Sustainable Materials
+            0.6522, // [6] End-of-Life Disassembly Ease
+            0.281, // [7] Energy Consumption in Production
+            0.1336, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.0167, // [0] Safety Incident Reduction
+            0.7878, // [1] Ergonomic Maintenance Access
+            0.6858, // [2] Noise Exposure Reduction
+            0.9122, // [3] Training Time Requirement
+            0.0458, // [4] Operator Satisfaction Score
+            0.1339, // [5] Community Noise Impact
+            0.703, // [6] Regulatory Compliance Rate
+            0.4018, // [7] Local Workforce Engagement
+            0.0577, // [8] Human Factors Error Rate
+            0.6697, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}

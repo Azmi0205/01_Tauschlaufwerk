@@ -1,0 +1,40 @@
+{
+    "id": "component-013-landing_lights",
+    "values": [
+        // Aspect: Economy
+        [
+            0.5214, // [0] Unit Production Cost
+            0.3108, // [1] Maintenance Cost Efficiency
+            0.6561, // [2] Fuel Consumption Impact
+            0.6505, // [3] Warranty Claim Rate
+            0.8658, // [4] Supply Chain Lead Time
+            0.0684, // [5] Market Price Competitiveness
+            0.023, // [6] Residual Value Ratio
+        ],
+        // Aspect: Ecology
+        [
+            0.2656, // [0] Material Recyclability
+            0.0312, // [1] Manufacturing Emissions Index
+            0.0562, // [2] Operational Noise Footprint
+            0.103, // [3] Weight-to-Strength Efficiency
+            0.0051, // [4] Corrosion Resistance Rating
+            0.2327, // [5] Use of Sustainable Materials
+            0.4766, // [6] End-of-Life Disassembly Ease
+            0.9364, // [7] Energy Consumption in Production
+            0.822, // [8] Green Certification Score
+        ],
+        // Aspect: Social
+        [
+            0.5582, // [0] Safety Incident Reduction
+            0.5996, // [1] Ergonomic Maintenance Access
+            0.1005, // [2] Noise Exposure Reduction
+            0.4313, // [3] Training Time Requirement
+            0.7461, // [4] Operator Satisfaction Score
+            0.8338, // [5] Community Noise Impact
+            0.7986, // [6] Regulatory Compliance Rate
+            0.4978, // [7] Local Workforce Engagement
+            0.762, // [8] Human Factors Error Rate
+            0.7874, // [9] Stakeholder Transparency Index
+        ],
+    ]
+}
