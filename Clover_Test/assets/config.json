@@ -8,13 +8,13 @@
   "colors": [
     [
       30,
-      99,
+      100,
       160,
       255
     ],
     [
       230,
-      99,
+      100,
       50,
       255
     ],
@@ -70,5 +70,8 @@
   "show_per": false,
   "same_color_second": true,
   "same_color_superimpose": true,
-  "feathering_en": true
+  "feathering_en": true,
+  "show_metric_id": false,
+  "graph_label_stroke": 21.0,
+  "show_diff": true
 }
